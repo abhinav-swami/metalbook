@@ -2,7 +2,7 @@
   "name": "metalbox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhinav-swami.github.io/metalbox",
+  "homepage": "https://abhinav-swami.github.io/metalbook",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
