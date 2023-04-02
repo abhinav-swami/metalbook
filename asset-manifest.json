@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/metalbox/static/css/main.63eecfb9.css",
-    "main.js": "/metalbox/static/js/main.604009bb.js",
+    "main.js": "/metalbox/static/js/main.8a7098a4.js",
     "static/js/787.62ec1be0.chunk.js": "/metalbox/static/js/787.62ec1be0.chunk.js",
     "index.html": "/metalbox/index.html",
     "main.63eecfb9.css.map": "/metalbox/static/css/main.63eecfb9.css.map",
-    "main.604009bb.js.map": "/metalbox/static/js/main.604009bb.js.map",
+    "main.8a7098a4.js.map": "/metalbox/static/js/main.8a7098a4.js.map",
     "787.62ec1be0.chunk.js.map": "/metalbox/static/js/787.62ec1be0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63eecfb9.css",
-    "static/js/main.604009bb.js"
+    "static/js/main.8a7098a4.js"
   ]
 }
