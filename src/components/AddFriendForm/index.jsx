@@ -9,6 +9,7 @@ export const AddFriendForm = () => {
     e.preventDefault();
     if (!newFriendName) {
       alert("invalid name");
+      return "";
     }
     if (
       friends.some((existingFriend) => existingFriend.name === newFriendName)
